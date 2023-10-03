@@ -1,3 +1,3 @@
 # Oparator
 
-Some description!
+Some description and requirements!
