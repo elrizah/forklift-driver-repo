@@ -4,7 +4,8 @@ Some description and requirements!
 
 ## Responsibilities
 
-Loading and unloading materials from a variety of vehicles
+Loading and unloading materials from a variety of vehicles.
+
 
 Moving pallet-packed materials around the site or storage facility
 
